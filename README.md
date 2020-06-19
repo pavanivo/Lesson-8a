@@ -4,23 +4,6 @@
 
 ---
 
-## Materials We Provide
-
-| Topic | Description | Link |
-| --- | --- | --- |
-| Lesson | Part 1: APIs | [Here](./intro-to-web-services-apis.ipynb) |
-| Lesson | Part 2: Webscraping Demo (Optional; time permitting) | [Here](./webscraping-in-class.ipynb) |
-| Solutions | Sample solutions to lesson prompts | [Here](./solution-code/webscraping-in-class-solutions.ipynb) |
-| Practice | In-Class Practice Using APIs | [Here](./practice/apis_practice-lab.ipynb) |
-|          | Case Study Twitter APIs and NLP           | [Here](./practice/twitter_api_nlp-lab.ipynb)  |
-|          | Practice Webscraping with Selenium (Requires Chrome)   | [Here](./practice/webscraping_selenium-lab.ipynb)       |
-| Practice Solutions  | Solution code for all 3 practice activities | [Here](./practice/solution-code/) |
-| Slides | Sample slide decks for this topic (PPTX; deprecated) | [Here](./APIs/assets/slides/) |
-
-> Please note: This lesson makes use of datasets from the `requests` library. The optional practice materials also include a `twitter-python` package. The webscraping module requires `selenium` and `geckodriver` and is best taught using Google Chrome.
-
----
-
 ## Learning Objectives
 
 #### Part 1: Intro to Web Services & APIs
